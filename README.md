@@ -1,4 +1,4 @@
-A collection of simple Bash scripts.
+김산의 배쉬 
 
 ## Getting Started
 
